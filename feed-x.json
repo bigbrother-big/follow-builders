@@ -492,10 +492,31 @@
           "quotedTweetId": null
         }
       ]
+    },
+    {
+      "source": "x",
+      "name": "Jim Fan",
+      "handle": "DrJimFan",
+      "bio": "Director of AI Research @ NVIDIA; lead Genesis team; co-host of Robot Brains podcast.",
+      "tweets": []
+    },
+    {
+      "source": "x",
+      "name": "宝玉",
+      "handle": "dotey",
+      "bio": "AI/ML 翻译官，前 Microsoft / eBay 工程师；翻译大量 Andrej Karpathy / Sam Altman 演讲。",
+      "tweets": []
+    },
+    {
+      "source": "x",
+      "name": "Andrew Ng",
+      "handle": "AndrewYNg",
+      "bio": "Stanford CS Adjunct Professor; founder of DeepLearning.AI; co-founder of Coursera; AI 教父级人物。",
+      "tweets": []
     }
   ],
   "stats": {
-    "xBuilders": 16,
+    "xBuilders": 19,
     "totalTweets": 33
   }
 }
